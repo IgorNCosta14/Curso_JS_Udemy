@@ -1,0 +1,9 @@
+// Função geradora
+function* geradora1() {
+    // Código qualquer...
+    yield 'Valor 1';
+    // Código qualquer...
+    yield 'Valor 2';
+    // Código qualquer...
+    yield 'valor 3';
+}
